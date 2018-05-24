@@ -1,5 +1,5 @@
 # Clutter-Demo
-This repository contains a snippet of a client-facing app created for the consideration of Clutter, Inc. The project was initially created as a demo app for a Clutter iOS Engineer position, but evolved into a more advanced project. It is based upon the mockup iPhone design found on Clutter's website and is seamlessly integrated with Clutter Mover (source code available at www.github.com/jwells/ClutterMover-Demo).
+This repository contains a snippet of a client-facing app created for the consideration of Clutter, Inc. The project was initially created as a demo app for a Clutter iOS Engineer position, but evolved into a more advanced project. It is based upon the mockup iPhone design found on Clutter's website and is seamlessly integrated with Clutter Mover (source code available at www.github.com/jwells18/ClutterMover-Demo).
 
 ![alt text](https://github.com/jwells18/Clutter-Demo/blob/master/ClutterDemoGIF.gif)
 
